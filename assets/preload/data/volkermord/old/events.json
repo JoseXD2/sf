@@ -1,0 +1,179 @@
+{
+	"song": {
+		"speed": 3.3,
+		"stage": "bazistage",
+		"player1": "soldier-spongebob",
+		"player2": "nazibf-opponent",
+		"player3": null,
+		"events": [
+			[
+				9525,
+				[
+					[
+						"Health Drain",
+						"1.5",
+						"0.01"
+					]
+				]
+			],
+			[
+				14400,
+				[
+					[
+						"Health Drain",
+						"0.0",
+						"0.01"
+					]
+				]
+			],
+			[
+				28725,
+				[
+					[
+						"Health Drain",
+						"1.5",
+						"0.01"
+					]
+				]
+			],
+			[
+				36000,
+				[
+					[
+						"Health Drain",
+						"0.0",
+						"0.01"
+					]
+				]
+			],
+			[
+				45525,
+				[
+					[
+						"Health Drain",
+						"1.5",
+						"0.01"
+					]
+				]
+			],
+			[
+				48000,
+				[
+					[
+						"Health Drain",
+						"0.0",
+						"0.01"
+					]
+				]
+			],
+			[
+				52725,
+				[
+					[
+						"onBeat",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				52800,
+				[
+					[
+						"shakey arrows",
+						"little",
+						""
+					]
+				]
+			],
+			[
+				62325,
+				[
+					[
+						"Health Drain",
+						"1.5",
+						"0.01"
+					]
+				]
+			],
+			[
+				67200,
+				[
+					[
+						"Health Drain",
+						"0.0",
+						"0.01"
+					]
+				]
+			],
+			[
+				72000,
+				[
+					[
+						"shakey arrows",
+						"normal",
+						""
+					]
+				]
+			],
+			[
+				74325,
+				[
+					[
+						"Health Drain",
+						"1.5",
+						"0.01"
+					]
+				]
+			],
+			[
+				75600,
+				[
+					[
+						"Health Drain",
+						"0.0",
+						"0.01"
+					]
+				]
+			],
+			[
+				79125,
+				[
+					[
+						"Health Drain",
+						"1.5",
+						"0.01"
+					]
+				]
+			],
+			[
+				80400,
+				[
+					[
+						"Health Drain",
+						"0.0",
+						"0.01"
+					]
+				]
+			],
+			[
+				81600,
+				[
+					[
+						"onBeat",
+						"false",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 200,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "deutschland"
+	}
+}

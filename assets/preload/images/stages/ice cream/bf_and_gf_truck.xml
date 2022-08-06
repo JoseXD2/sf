@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<TextureAtlas imagePath="bf and gf ice cream truck.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="bf and gf0000" x="1" y="1" width="1260" height="717" frameX="-5" frameY="-8" frameWidth="1281" frameHeight="725"/>
+	<SubTexture name="bf and gf0001" x="1" y="1" width="1260" height="717" frameX="-5" frameY="-8" frameWidth="1281" frameHeight="725"/>
+	<SubTexture name="bf and gf0002" x="1" y="721" width="1254" height="717" frameX="-11" frameY="-8" frameWidth="1281" frameHeight="725"/>
+	<SubTexture name="bf and gf0003" x="1" y="721" width="1254" height="717" frameX="-11" frameY="-8" frameWidth="1281" frameHeight="725"/>
+	<SubTexture name="bf and gf0004" x="1" y="1441" width="1264" height="720" frameX="-11" frameY="-5" frameWidth="1281" frameHeight="725"/>
+	<SubTexture name="bf and gf0005" x="1" y="1441" width="1264" height="720" frameX="-11" frameY="-5" frameWidth="1281" frameHeight="725"/>
+	<SubTexture name="bf and gf0006" x="1" y="2164" width="1281" height="724" frameX="0" frameY="-1" frameWidth="1281" frameHeight="725"/>
+	<SubTexture name="bf and gf0007" x="1" y="2164" width="1281" height="724" frameX="0" frameY="-1" frameWidth="1281" frameHeight="725"/>
+	<SubTexture name="bf and gf0008" x="1" y="2891" width="1277" height="725" frameX="-1" frameY="0" frameWidth="1281" frameHeight="725"/>
+	<SubTexture name="bf and gf0009" x="1" y="2891" width="1277" height="725" frameX="-1" frameY="0" frameWidth="1281" frameHeight="725"/>
+	<SubTexture name="bf and gf0010" x="1" y="2891" width="1277" height="725" frameX="-1" frameY="0" frameWidth="1281" frameHeight="725"/>
+	<SubTexture name="bf and gf0011" x="1" y="2891" width="1277" height="725" frameX="-1" frameY="0" frameWidth="1281" frameHeight="725"/>
+	<SubTexture name="bf and gf0012" x="1" y="2891" width="1277" height="725" frameX="-1" frameY="0" frameWidth="1281" frameHeight="725"/>
+	<SubTexture name="bf and gf0013" x="1" y="2891" width="1277" height="725" frameX="-1" frameY="0" frameWidth="1281" frameHeight="725"/>
+	<SubTexture name="bf and gf0014" x="1" y="2891" width="1277" height="725" frameX="-1" frameY="0" frameWidth="1281" frameHeight="725"/>
+</TextureAtlas>

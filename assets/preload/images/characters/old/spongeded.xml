@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="spongeded.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ded0000" x="0" y="0" width="1619" height="1118" frameX="-270" frameY="0" frameWidth="1889" frameHeight="1209"/>
+	<SubTexture name="ded0001" x="1619" y="0" width="1177" height="1104" frameX="-270" frameY="-102" frameWidth="1889" frameHeight="1209"/>
+	<SubTexture name="ded0002" x="2796" y="0" width="1171" height="1080" frameX="0" frameY="-129" frameWidth="1889" frameHeight="1209"/>
+	<SubTexture name="ded0003" x="3967" y="0" width="1166" height="1072" frameX="-6" frameY="-129" frameWidth="1889" frameHeight="1209"/>
+	<SubTexture name="ded0004" x="5133" y="0" width="1165" height="1076" frameX="-7" frameY="-129" frameWidth="1889" frameHeight="1209"/>
+	<SubTexture name="ded0005" x="6298" y="0" width="1172" height="1070" frameX="0" frameY="-129" frameWidth="1889" frameHeight="1209"/>
+	<SubTexture name="ded0006" x="0" y="1118" width="1166" height="1074" frameX="-6" frameY="-129" frameWidth="1889" frameHeight="1209"/>
+	<SubTexture name="ded0007" x="1166" y="1118" width="1165" height="1074" frameX="-7" frameY="-129" frameWidth="1889" frameHeight="1209"/>
+	<SubTexture name="ded0008" x="2331" y="1118" width="1172" height="1069" frameX="0" frameY="-129" frameWidth="1889" frameHeight="1209"/>
+	<SubTexture name="ded0009" x="3503" y="1118" width="1166" height="1074" frameX="-6" frameY="-129" frameWidth="1889" frameHeight="1209"/>
+	<SubTexture name="ded0010" x="4669" y="1118" width="1165" height="1069" frameX="-7" frameY="-129" frameWidth="1889" frameHeight="1209"/>
+	<SubTexture name="ded0011" x="5834" y="1118" width="1172" height="1074" frameX="0" frameY="-129" frameWidth="1889" frameHeight="1209"/>
+	<SubTexture name="ded0012" x="7006" y="1118" width="1166" height="1069" frameX="-6" frameY="-129" frameWidth="1889" frameHeight="1209"/>
+	<SubTexture name="ded0013" x="1166" y="1118" width="1165" height="1074" frameX="-7" frameY="-129" frameWidth="1889" frameHeight="1209"/>
+	<SubTexture name="ded0014" x="2331" y="1118" width="1172" height="1069" frameX="0" frameY="-129" frameWidth="1889" frameHeight="1209"/>
+	<SubTexture name="ded0015" x="0" y="2192" width="1166" height="1074" frameX="-6" frameY="-129" frameWidth="1889" frameHeight="1209"/>
+	<SubTexture name="ded0016" x="1166" y="2192" width="1165" height="1069" frameX="-7" frameY="-129" frameWidth="1889" frameHeight="1209"/>
+	<SubTexture name="ded0017" x="2331" y="2192" width="1172" height="1074" frameX="0" frameY="-129" frameWidth="1889" frameHeight="1209"/>
+	<SubTexture name="ded0018" x="3503" y="2192" width="1166" height="1069" frameX="-6" frameY="-129" frameWidth="1889" frameHeight="1209"/>
+	<SubTexture name="ded0019" x="4669" y="2192" width="1165" height="1074" frameX="-7" frameY="-129" frameWidth="1889" frameHeight="1209"/>
+	<SubTexture name="ded0020" x="5834" y="2192" width="1172" height="1069" frameX="0" frameY="-129" frameWidth="1889" frameHeight="1209"/>
+	<SubTexture name="ded0021" x="7006" y="2192" width="1166" height="1074" frameX="-6" frameY="-129" frameWidth="1889" frameHeight="1209"/>
+	<SubTexture name="ded0022" x="0" y="3266" width="1165" height="1069" frameX="-7" frameY="-129" frameWidth="1889" frameHeight="1209"/>
+	<SubTexture name="ded0023" x="1165" y="3266" width="1172" height="1074" frameX="0" frameY="-129" frameWidth="1889" frameHeight="1209"/>
+	<SubTexture name="ded0024" x="2337" y="3266" width="1166" height="1069" frameX="-6" frameY="-129" frameWidth="1889" frameHeight="1209"/>
+	<SubTexture name="ded0025" x="3503" y="3266" width="1165" height="1074" frameX="-7" frameY="-129" frameWidth="1889" frameHeight="1209"/>
+	<SubTexture name="ded0026" x="4668" y="3266" width="1172" height="1069" frameX="0" frameY="-129" frameWidth="1889" frameHeight="1209"/>
+	<SubTexture name="ded0027" x="5840" y="3266" width="1166" height="1074" frameX="-6" frameY="-129" frameWidth="1889" frameHeight="1209"/>
+	<SubTexture name="ded0028" x="7006" y="3266" width="1165" height="1069" frameX="-7" frameY="-129" frameWidth="1889" frameHeight="1209"/>
+	<SubTexture name="ded0029" x="0" y="4340" width="1172" height="1074" frameX="0" frameY="-129" frameWidth="1889" frameHeight="1209"/>
+	<SubTexture name="ded0030" x="1172" y="4340" width="1166" height="1069" frameX="-6" frameY="-129" frameWidth="1889" frameHeight="1209"/>
+	<SubTexture name="ded0031" x="2338" y="4340" width="1165" height="1074" frameX="-7" frameY="-129" frameWidth="1889" frameHeight="1209"/>
+	<SubTexture name="ded0032" x="3503" y="4340" width="1172" height="1069" frameX="0" frameY="-129" frameWidth="1889" frameHeight="1209"/>
+	<SubTexture name="sus0000" x="4675" y="4340" width="586" height="586"/>
+</TextureAtlas>

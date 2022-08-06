@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Butrig.png"><SubTexture name="tits idle0000" x="0" y="0" width="1504" height="1196" frameX="0" frameY="0" frameWidth="1504" frameHeight="1196" />
+<SubTexture name="tits right0000" x="1504" y="0" width="1504" height="1196" frameX="0" frameY="0" frameWidth="1504" frameHeight="1196" />
+<SubTexture name="tits right0001" x="3008" y="0" width="1504" height="1196" frameX="0" frameY="0" frameWidth="1504" frameHeight="1196" />
+<SubTexture name="tits right0002" x="0" y="1196" width="1504" height="1196" frameX="0" frameY="0" frameWidth="1504" frameHeight="1196" />
+<SubTexture name="tits left0000" x="1504" y="1196" width="1504" height="1196" frameX="0" frameY="0" frameWidth="1504" frameHeight="1196" />
+<SubTexture name="tits left0001" x="3008" y="1196" width="1504" height="1196" frameX="0" frameY="0" frameWidth="1504" frameHeight="1196" />
+<SubTexture name="tits left0002" x="0" y="2392" width="1504" height="1196" frameX="0" frameY="0" frameWidth="1504" frameHeight="1196" />
+<SubTexture name="tits down0000" x="1504" y="2392" width="1504" height="1196" frameX="0" frameY="0" frameWidth="1504" frameHeight="1196" />
+<SubTexture name="tits down0001" x="3008" y="2392" width="1504" height="1196" frameX="0" frameY="0" frameWidth="1504" frameHeight="1196" />
+<SubTexture name="tits down0002" x="0" y="3588" width="1504" height="1196" frameX="0" frameY="0" frameWidth="1504" frameHeight="1196" />
+<SubTexture name="tits up0000" x="1504" y="3588" width="1504" height="1353" frameX="0" frameY="0" frameWidth="1504" frameHeight="1353" />
+<SubTexture name="tits up0001" x="3008" y="3588" width="1504" height="1353" frameX="0" frameY="0" frameWidth="1504" frameHeight="1353" />
+<SubTexture name="tits up0002" x="0" y="4941" width="1504" height="1353" frameX="0" frameY="0" frameWidth="1504" frameHeight="1353" />
+</TextureAtlas>

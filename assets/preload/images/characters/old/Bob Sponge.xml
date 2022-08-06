@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Bob Player.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Bob idle0000" x="0" y="0" width="250" height="270" frameX="-15" frameY="-17" frameWidth="265" frameHeight="288"/>
+	<SubTexture name="Bob idle0001" x="0" y="0" width="250" height="270" frameX="-15" frameY="-17" frameWidth="265" frameHeight="288"/>
+	<SubTexture name="Bob idle0002" x="250" y="0" width="240" height="280" frameX="-19" frameY="-8" frameWidth="265" frameHeight="288"/>
+	<SubTexture name="Bob idle0003" x="250" y="0" width="240" height="280" frameX="-19" frameY="-8" frameWidth="265" frameHeight="288"/>
+	<SubTexture name="Bob idle0004" x="490" y="0" width="244" height="284" frameX="-7" frameY="-4" frameWidth="265" frameHeight="288"/>
+	<SubTexture name="Bob idle0005" x="490" y="0" width="244" height="284" frameX="-7" frameY="-4" frameWidth="265" frameHeight="288"/>
+	<SubTexture name="Bob idle0006" x="734" y="0" width="251" height="287" frameX="0" frameY="-1" frameWidth="265" frameHeight="288"/>
+	<SubTexture name="Bob idle0007" x="734" y="0" width="251" height="287" frameX="0" frameY="-1" frameWidth="265" frameHeight="288"/>
+	<SubTexture name="Bob idle0008" x="985" y="0" width="251" height="288" frameX="0" frameY="0" frameWidth="265" frameHeight="288"/>
+	<SubTexture name="Bob idle0009" x="985" y="0" width="251" height="288" frameX="0" frameY="0" frameWidth="265" frameHeight="288"/>
+	<SubTexture name="Bob idle0010" x="1236" y="0" width="251" height="288" frameX="0" frameY="0" frameWidth="265" frameHeight="288"/>
+	<SubTexture name="Bob idle0011" x="1236" y="0" width="251" height="288" frameX="0" frameY="0" frameWidth="265" frameHeight="288"/>
+	<SubTexture name="Bob idle0012" x="1487" y="0" width="251" height="288" frameX="0" frameY="0" frameWidth="265" frameHeight="288"/>
+	<SubTexture name="Bob idle0013" x="1487" y="0" width="251" height="288" frameX="0" frameY="0" frameWidth="265" frameHeight="288"/>
+	<SubTexture name="Bob down0000" x="1738" y="0" width="247" height="246" frameX="0" frameY="-31" frameWidth="247" frameHeight="277"/>
+	<SubTexture name="Bob down0001" x="0" y="288" width="247" height="246" frameX="0" frameY="-31" frameWidth="247" frameHeight="277"/>
+	<SubTexture name="Bob down0002" x="247" y="288" width="247" height="277"/>
+	<SubTexture name="Bob down0003" x="247" y="288" width="247" height="277"/>
+	<SubTexture name="Bob left0000" x="494" y="288" width="336" height="279" frameX="0" frameY="-1" frameWidth="336" frameHeight="281"/>
+	<SubTexture name="Bob left0001" x="494" y="288" width="336" height="279" frameX="0" frameY="-1" frameWidth="336" frameHeight="281"/>
+	<SubTexture name="Bob left0002" x="830" y="288" width="291" height="281" frameX="-29" frameY="0" frameWidth="336" frameHeight="281"/>
+	<SubTexture name="Bob left0003" x="830" y="288" width="291" height="281" frameX="-29" frameY="0" frameWidth="336" frameHeight="281"/>
+	<SubTexture name="Bob right0000" x="1121" y="288" width="321" height="287" frameX="0" frameY="0" frameWidth="328" frameHeight="287"/>
+	<SubTexture name="Bob right0001" x="1442" y="288" width="322" height="287" frameX="-2" frameY="0" frameWidth="328" frameHeight="287"/>
+	<SubTexture name="Bob right0002" x="0" y="575" width="311" height="286" frameX="-17" frameY="0" frameWidth="328" frameHeight="287"/>
+	<SubTexture name="Bob right0003" x="0" y="575" width="311" height="286" frameX="-17" frameY="0" frameWidth="328" frameHeight="287"/>
+	<SubTexture name="Bob up0000" x="311" y="575" width="314" height="312"/>
+	<SubTexture name="Bob up0001" x="625" y="575" width="314" height="312"/>
+	<SubTexture name="Bob up0002" x="939" y="575" width="314" height="298" frameX="0" frameY="-14" frameWidth="314" frameHeight="312"/>
+	<SubTexture name="Bob up0003" x="939" y="575" width="314" height="298" frameX="0" frameY="-14" frameWidth="314" frameHeight="312"/>
+</TextureAtlas>

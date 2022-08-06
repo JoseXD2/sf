@@ -1,0 +1,54 @@
+{
+	"song": {
+		"speed": 3.5,
+		"stage": "exampleStage",
+		"player1": "squid2",
+		"player2": "larry",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Middlescroll",
+						"On",
+						"1"
+					],
+					[
+						"Squid Camera Notes",
+						"",
+						"on"
+					]
+				]
+			],
+			[
+				88916.349809886,
+				[
+					[
+						"Play Animation",
+						"why1",
+						"Dad"
+					]
+				]
+			],
+			[
+				89107.4144486693,
+				[
+					[
+						"Play Animation",
+						"why2",
+						"Dad"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "nogf",
+		"bpm": 263,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "get-him-back-2"
+	}
+}

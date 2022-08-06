@@ -1,0 +1,59 @@
+{
+	"song": {
+		"speed": 2.2,
+		"stage": "panchitoroom",
+		"player1": "panchitobf",
+		"player2": "panchito-spongebob",
+		"player3": null,
+		"events": [
+			[
+				14238,
+				[
+					[
+						"Zoom",
+						"5",
+						"5"
+					]
+				]
+			],
+			[
+				15240,
+				[
+					[
+						"Change Scroll Speed",
+						"1.5",
+						"1"
+					]
+				]
+			],
+			[
+				15360,
+				[
+					[
+						"Zoom",
+						"1",
+						"0.1"
+					]
+				]
+			],
+			[
+				15390,
+				[
+					[
+						"Add Camera Zoom",
+						"0.025",
+						"0.25"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "nogf",
+		"bpm": 125,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "rock-and-roll"
+	}
+}

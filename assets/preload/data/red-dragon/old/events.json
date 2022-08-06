@@ -1,0 +1,49 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "china",
+		"player1": "nan pengyou",
+		"player2": "chinasponge",
+		"player3": null,
+		"events": [
+			[
+				16000,
+				[
+					[
+						"Change Scrolltype",
+						"on",
+						""
+					]
+				]
+			],
+			[
+				16083.3333333333,
+				[
+					[
+						"Screen Shake",
+						"1, 0.01",
+						"0.01"
+					]
+				]
+			],
+			[
+				26666.6666666667,
+				[
+					[
+						"Change Scrolltype",
+						"default",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "nogf",
+		"bpm": 180,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Red Dragon"
+	}
+}

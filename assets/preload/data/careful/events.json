@@ -1,0 +1,219 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "park",
+		"player1": "PAT",
+		"player2": "SPONG",
+		"player3": null,
+		"events": [
+			[
+				9975,
+				[
+					[
+						"Change Scroll Speed",
+						"1.2",
+						"0"
+					]
+				]
+			],
+			[
+				14475,
+				[
+					[
+						"Change Scroll Speed",
+						"1.3",
+						"0"
+					]
+				]
+			],
+			[
+				15600,
+				[
+					[
+						"Change Scroll Speed",
+						"1.2",
+						"0"
+					]
+				]
+			],
+			[
+				16650,
+				[
+					[
+						"Add Camera Zoom",
+						"0.010",
+						"0.10"
+					]
+				]
+			],
+			[
+				16800,
+				[
+					[
+						"Add Camera Zoom",
+						"0.010",
+						"0.10"
+					]
+				]
+			],
+			[
+				19275,
+				[
+					[
+						"Add Camera Zoom",
+						"0.010",
+						"0.10"
+					]
+				]
+			],
+			[
+				19425,
+				[
+					[
+						"Add Camera Zoom",
+						"0.010",
+						"0.10"
+					]
+				]
+			],
+			[
+				19650,
+				[
+					[
+						"Add Camera Zoom",
+						"-0.010",
+						"-0.10"
+					]
+				]
+			],
+			[
+				19800,
+				[
+					[
+						"Add Camera Zoom",
+						"-0.010",
+						"-0.10"
+					]
+				]
+			],
+			[
+				20400,
+				[
+					[
+						"Change Scroll Speed",
+						"1.4",
+						"0"
+					]
+				]
+			],
+			[
+				21225,
+				[
+					[
+						"Change Scroll Speed",
+						"1.2",
+						"0"
+					]
+				]
+			],
+			[
+				28875,
+				[
+					[
+						"Change Scroll Speed",
+						"5",
+						"0"
+					]
+				]
+			],
+			[
+				30000,
+				[
+					[
+						"Change Scroll Speed",
+						"8",
+						"0"
+					]
+				]
+			],
+			[
+				31200,
+				[
+					[
+						"Change Scroll Speed",
+						"3",
+						"0"
+					]
+				]
+			],
+			[
+				31425,
+				[
+					[
+						"Change Scroll Speed",
+						"6",
+						"0"
+					]
+				]
+			],
+			[
+				31650,
+				[
+					[
+						"Change Scroll Speed",
+						"3",
+						"0"
+					]
+				]
+			],
+			[
+				31875,
+				[
+					[
+						"Change Scroll Speed",
+						"6",
+						"0"
+					]
+				]
+			],
+			[
+				32400,
+				[
+					[
+						"Change Scroll Speed",
+						"7",
+						"0"
+					]
+				]
+			],
+			[
+				32850,
+				[
+					[
+						"Change Scroll Speed",
+						"5",
+						"0"
+					]
+				]
+			],
+			[
+				33225,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"0"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "nogf",
+		"bpm": 200,
+		"arrowSkin": null,
+		"needsVoices": false,
+		"song": "careful"
+	}
+}

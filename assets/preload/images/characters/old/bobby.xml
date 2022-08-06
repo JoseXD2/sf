@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bobby.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="baddy bearest or some shit LEFT0000" x="5" y="5" width="784" height="649" frameX="-581" frameY="-145" frameWidth="1532" frameHeight="801"/>
+	<SubTexture name="baddy bearest or some shit LEFT0001" x="794" y="5" width="1532" height="794" frameX="0" frameY="0" frameWidth="1532" frameHeight="801"/>
+	<SubTexture name="baddy bearest or some shit LEFT0002" x="2331" y="5" width="1275" height="755" frameX="-202" frameY="-43" frameWidth="1532" frameHeight="801"/>
+	<SubTexture name="baddy bearest or some shit LEFT0003" x="3611" y="5" width="1021" height="709" frameX="-400" frameY="-92" frameWidth="1532" frameHeight="801"/>
+	<SubTexture name="baddy bearest or some shit LEFT0004" x="5" y="5" width="784" height="649" frameX="-581" frameY="-145" frameWidth="1532" frameHeight="801"/>
+	<SubTexture name="baddy bearest or some shit LEFT0005" x="5" y="5" width="784" height="649" frameX="-581" frameY="-145" frameWidth="1532" frameHeight="801"/>
+	<SubTexture name="gay ass daddy pose UP0000" x="4637" y="5" width="688" height="907" frameX="-367" frameY="-1093" frameWidth="1215" frameHeight="2033"/>
+	<SubTexture name="gay ass daddy pose UP0001" x="5330" y="5" width="1215" height="2033"/>
+	<SubTexture name="gay ass daddy pose UP0002" x="6550" y="5" width="1019" height="1662" frameX="-142" frameY="-360" frameWidth="1215" frameHeight="2033"/>
+	<SubTexture name="gay ass daddy pose UP0003" x="5" y="2043" width="842" height="1286" frameX="-265" frameY="-725" frameWidth="1215" frameHeight="2033"/>
+	<SubTexture name="gay ass daddy pose UP0004" x="4637" y="5" width="688" height="907" frameX="-367" frameY="-1093" frameWidth="1215" frameHeight="2033"/>
+	<SubTexture name="gay ass daddy pose UP0005" x="4637" y="5" width="688" height="907" frameX="-367" frameY="-1093" frameWidth="1215" frameHeight="2033"/>
+	<SubTexture name="goofy ahh DOWN0000" x="852" y="2043" width="646" height="452" frameX="-149" frameY="-106" frameWidth="1534" frameHeight="1136"/>
+	<SubTexture name="goofy ahh DOWN0001" x="1503" y="2043" width="1534" height="1136"/>
+	<SubTexture name="goofy ahh DOWN0002" x="3042" y="2043" width="1238" height="815" frameX="-50" frameY="-129" frameWidth="1534" frameHeight="1136"/>
+	<SubTexture name="goofy ahh DOWN0003" x="4285" y="2043" width="950" height="557" frameX="-92" frameY="-194" frameWidth="1534" frameHeight="1136"/>
+	<SubTexture name="goofy ahh DOWN0004" x="852" y="2043" width="646" height="452" frameX="-149" frameY="-106" frameWidth="1534" frameHeight="1136"/>
+	<SubTexture name="goofy ahh DOWN0005" x="852" y="2043" width="646" height="452" frameX="-149" frameY="-106" frameWidth="1534" frameHeight="1136"/>
+	<SubTexture name="i see boobies RIGHT0000" x="5240" y="2043" width="780" height="569" frameX="-9" frameY="0" frameWidth="1582" frameHeight="645"/>
+	<SubTexture name="i see boobies RIGHT0001" x="6025" y="2043" width="1579" height="623" frameX="-3" frameY="0" frameWidth="1582" frameHeight="645"/>
+	<SubTexture name="i see boobies RIGHT0002" x="5" y="3334" width="1292" height="645" frameX="-16" frameY="0" frameWidth="1582" frameHeight="645"/>
+	<SubTexture name="i see boobies RIGHT0003" x="1302" y="3334" width="1039" height="627" frameX="0" frameY="0" frameWidth="1582" frameHeight="645"/>
+	<SubTexture name="i see boobies RIGHT0004" x="5240" y="2043" width="780" height="569" frameX="-9" frameY="0" frameWidth="1582" frameHeight="645"/>
+	<SubTexture name="i see boobies RIGHT0005" x="5240" y="2043" width="780" height="569" frameX="-9" frameY="0" frameWidth="1582" frameHeight="645"/>
+	<SubTexture name="smart ass mf IDLE0000" x="2346" y="3334" width="686" height="631" frameX="-75" frameY="0" frameWidth="865" frameHeight="709"/>
+	<SubTexture name="smart ass mf IDLE0001" x="3037" y="3334" width="865" height="516" frameX="0" frameY="-193" frameWidth="865" frameHeight="709"/>
+	<SubTexture name="smart ass mf IDLE0002" x="3907" y="3334" width="856" height="519" frameX="-3" frameY="-180" frameWidth="865" frameHeight="709"/>
+	<SubTexture name="smart ass mf IDLE0003" x="4768" y="3334" width="845" height="526" frameX="-7" frameY="-163" frameWidth="865" frameHeight="709"/>
+	<SubTexture name="smart ass mf IDLE0004" x="5618" y="3334" width="833" height="531" frameX="-12" frameY="-147" frameWidth="865" frameHeight="709"/>
+	<SubTexture name="smart ass mf IDLE0005" x="6456" y="3334" width="820" height="537" frameX="-17" frameY="-130" frameWidth="865" frameHeight="709"/>
+	<SubTexture name="smart ass mf IDLE0006" x="7281" y="3334" width="807" height="542" frameX="-22" frameY="-114" frameWidth="865" frameHeight="709"/>
+	<SubTexture name="smart ass mf IDLE0007" x="5" y="3984" width="793" height="546" frameX="-28" frameY="-98" frameWidth="865" frameHeight="709"/>
+	<SubTexture name="smart ass mf IDLE0008" x="803" y="3984" width="778" height="550" frameX="-34" frameY="-81" frameWidth="865" frameHeight="709"/>
+	<SubTexture name="smart ass mf IDLE0009" x="1586" y="3984" width="760" height="566" frameX="-42" frameY="-65" frameWidth="865" frameHeight="709"/>
+	<SubTexture name="smart ass mf IDLE0010" x="2351" y="3984" width="744" height="582" frameX="-49" frameY="-49" frameWidth="865" frameHeight="709"/>
+	<SubTexture name="smart ass mf IDLE0011" x="3100" y="3984" width="726" height="599" frameX="-57" frameY="-32" frameWidth="865" frameHeight="709"/>
+	<SubTexture name="smart ass mf IDLE0012" x="3831" y="3984" width="706" height="615" frameX="-66" frameY="-16" frameWidth="865" frameHeight="709"/>
+	<SubTexture name="smart ass mf IDLE0013" x="2346" y="3334" width="686" height="631" frameX="-75" frameY="0" frameWidth="865" frameHeight="709"/>
+</TextureAtlas>
